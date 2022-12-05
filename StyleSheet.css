@@ -19,6 +19,7 @@
 }
 .intro {
     font-family: 'Nerko One', cursive;
+    font-size:20px;
 }
 button {
     display: block;
